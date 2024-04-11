@@ -60,7 +60,7 @@ h1{
     text-shadow: 1px 1px #e1e508;
 }
 
-p{
+.p-1{
     text-align: end;
     position:relative;
     top: 0.6rem;
@@ -68,6 +68,17 @@ p{
     color: #e1e508;
     font-family: 'Caprasimo';
     margin-right: 0.4rem;
+    margin-left: 1rem;
+}
+
+.p-2{
+    margin-left: 0.4rem;
+    margin-right: 1rem;
+    margin-top: 5rem;
+    text-align:left;
+    color: #e1e508;
+    font-family: 'Caprasimo';
+    font-size: 1.5rem;
 }
 
 .city{
