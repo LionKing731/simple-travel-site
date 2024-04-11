@@ -108,3 +108,17 @@ h1{
     position: relative;
     bottom: 45px;
 }
+
+
+#mesa{
+    margin-top: 6rem;
+    border: 0.7rem solid #e51956;
+    border-radius: 1.4rem;
+    width: 100%;
+    padding: 0.5rem;
+    text-align: center;
+}
+
+th, td{
+    border-bottom: 0.1rem solid #e1e508;
+}
